@@ -9,6 +9,8 @@
 # Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=JavaScript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?&style=flat&logo=Vue.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?&style=flate&logo=C&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?&style=flate&logo=Spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?&style=flate&logo=Amazon%20AWS&logoColor=white)
