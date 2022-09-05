@@ -1,10 +1,11 @@
 # Nam Gibeom 🤗
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGIVEN53&count_bg=%239C577B&title_bg=%23402B58&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=maagi53)](https://solved.ac/maagi53)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIVEN53&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIVEN53&langs_count=8&layout=compact&theme=dracula)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maagi53)](https://solved.ac/maagi53)
+
 
 # Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=flat&logo=Python&logoColor=white)
