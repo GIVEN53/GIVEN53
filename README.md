@@ -42,4 +42,3 @@ Hello 👋, I'm Gibeom Nam.
   <img src='https://github-readme-stats.vercel.app/api?username=GIVEN53&count_private=true&show_icons=true&theme=tokyonight' height='180px'/>
   <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=maagi53' height='180px'/>
 </p>
-<img src='https://velog-readme-stats.vercel.app/api?name=given53&color=dark'>
