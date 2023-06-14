@@ -1,22 +1,39 @@
-# Nam Gibeom 🤗
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGIVEN53&count_bg=%239C577B&title_bg=%23402B58&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=maagi53)](https://solved.ac/maagi53)
+Hello 👋, I'm Gibeom Nam.
+- \[2016.03 ~ 2023.02] Kwangwoon University 
+- \[2023.04 ~ 2023.12] SW Maestro 14th
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIVEN53&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIVEN53&langs_count=8&layout=compact&theme=dracula)
+<p>
+<img src='https://img.shields.io/badge/Tech%20Blog-20C997?&style=flat&logo=Velog&logoColor=white'/>
+<img src='https://img.shields.io/badge/Gmail-EA4335?&style=flat&logo=Gmail&logoColor=white'/>
+</p>
 
+#### Interested in
+- Backend development that solves problems from various perspectives.
+- DevOps
+- Performance optimization, automation.
+<br/>
 
-# Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?&style=flat&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=JavaScript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?&style=flat&logo=Vue.js&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?&style=flate&logo=C&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?&style=flate&logo=Spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?&style=flate&logo=Amazon%20AWS&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?&style=flate&logo=Git&logoColor=white)
+<p>
+<img src='https://img.shields.io/badge/Java-007396?&style=flat&logo=Java&logoColor=white'/>
+<img src='https://img.shields.io/badge/Spring-6DB33F?&style=flate&logo=Spring&logoColor=white'/>
+<img src='https://img.shields.io/badge/Python-3776AB?&style=flat&logo=Python&logoColor=white'/>
+<img src='https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=JavaScript&logoColor=white'/>
+<img src='https://img.shields.io/badge/Vue.js-4FC08D?&style=flat&logo=Vue.js&logoColor=white'/>
+<br/>
+<img src='https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=Docker&logoColor=white'/>
+<img src='https://img.shields.io/badge/Redis-DC382D?&style=flat&logo=Redis&logoColor=white'/>
+<img src='https://img.shields.io/badge/MySQL-4479A1?&style=flat&logo=MySQL&logoColor=white'/>
+<img src='https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=Ubuntu&logoColor=white'/>
+<img src='https://img.shields.io/badge/Apache Kafka-231F20?&style=flat&logo=Apache Kafka&logoColor=white'/>
+<br/>
+<img src='https://img.shields.io/badge/ElasticSearch-005571?&style=flat&logo=ElasticSearch&logoColor=white'/>
+<img src='https://img.shields.io/badge/MongoDB-47A248?&style=flat&logo=MongoDB&logoColor=white'/>
+<img src='https://img.shields.io/badge/Nginx-009639?&style=flat&logo=NGINX&logoColor=white'/>
+<img src='https://img.shields.io/badge/Github Actions-2088FF?&style=flat&logo=githubactions&logoColor=white'/>
+</p>
+<img src='https://github-profile-trophy.vercel.app/?username=GIVEN53&theme=chalk&row=2&column=3'/>
 
-# Contact
-[![Velog](https://img.shields.io/badge/Tech%20Blog-20C997?&style=flate&logo=Velog&logoColor=white)](https://velog.io/@given53)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=flate&logo=Gmail&logoColor=white)](mailto:rest4ucker@gmail.com)
+<p>
+<img src='https://github-readme-stats.vercel.app/api?username=GIVEN53&count_private=true&show_icons=true&theme=tokyonight' height='180px'/> 
+<img src='http://mazassumnida.wtf/api/generate_badge?boj=maagi53' height='180px'/>
+</p>
