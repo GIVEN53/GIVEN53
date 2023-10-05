@@ -14,7 +14,7 @@ Hello 👋, I'm Gibeom Nam.
 #### Interested in
 - Backend development that solves problems from various perspectives.
 - DevOps
-- Performance optimization, automation.
+- Performance optimization and automation.
 <br/>
 
 <p>
@@ -24,16 +24,19 @@ Hello 👋, I'm Gibeom Nam.
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=JavaScript&logoColor=white'/>
   <img src='https://img.shields.io/badge/Vue.js-4FC08D?&style=flat&logo=Vue.js&logoColor=white'/>
 <br/>
-  <img src='https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=Docker&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Redis-DC382D?&style=flat&logo=Redis&logoColor=white'/>
   <img src='https://img.shields.io/badge/MySQL-4479A1?&style=flat&logo=MySQL&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=Ubuntu&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Apache Kafka-231F20?&style=flat&logo=Apache Kafka&logoColor=white'/>
-<br/>
-  <img src='https://img.shields.io/badge/ElasticSearch-005571?&style=flat&logo=ElasticSearch&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Redis-DC382D?&style=flat&logo=Redis&logoColor=white'/>
   <img src='https://img.shields.io/badge/MongoDB-47A248?&style=flat&logo=MongoDB&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Nginx-009639?&style=flat&logo=NGINX&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Apache Kafka-231F20?&style=flat&logo=Apache Kafka&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Fluent Bit-49BDA5?&style=flat&logo=Fluent Bit&logoColor=white'/>
+
+<br/>
+  <img src='https://img.shields.io/badge/OpenSearch-005EB8?&style=flat&logo=OpenSearch&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=Docker&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=Ubuntu&logoColor=white'/>
   <img src='https://img.shields.io/badge/Github Actions-2088FF?&style=flat&logo=githubactions&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Terraform-844FBA?&style=flat&logo=Terraform&logoColor=white'/>
+
 </p>
 
 <img src='https://github-profile-trophy.vercel.app/?username=GIVEN53&theme=chalk&row=2&column=3'/>
