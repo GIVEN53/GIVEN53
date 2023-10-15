@@ -1,6 +1,5 @@
 Hello 👋, I'm Gibeom Nam.
 - \[2016.03 ~ 2023.02] Kwangwoon University 
-- \[2023.04 ~ 2023.12] SW Maestro 14th
 
 <p>
   <a href='https://velog.io/@given53'>
