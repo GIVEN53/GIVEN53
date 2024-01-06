@@ -9,18 +9,6 @@
 - \[2016.03 ~ 2023.02] Kwangwoon University
 
 <br/>
-<p>
-  <a href='https://velog.io/@given53'>
-    <img src='https://img.shields.io/badge/Tech%20Blog-20C997?&style=flat&logo=Velog&logoColor=white'/>
-  </a>
-  <a href="mailto:given0523@gmail.com">
-    <img src='https://img.shields.io/badge/Gmail-EA4335?&style=flat&logo=Gmail&logoColor=white'/>
-  </a>
-</p>
-
-
-
-
 <img src='https://github-profile-trophy.vercel.app/?username=GIVEN53&theme=chalk&row=2&column=3'/>
 
 <p>
